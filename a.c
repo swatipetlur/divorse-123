@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+  printf("hcuh.");
   printf("hello");
   printf("hiiii");
   printf("hi");
