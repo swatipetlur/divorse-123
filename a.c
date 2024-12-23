@@ -3,7 +3,7 @@ void main()
 {
  
   printf("hi");
-printf("first commit");
+printf("first commit1");
   printf("second commit");
   printf("Mohan Das Karam chandra Ghadhi");
 }
